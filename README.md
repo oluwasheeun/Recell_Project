@@ -1,5 +1,8 @@
 # Recell Project
 
+## Summary
+To build a linear regression model that predicts resell price for a used phone. See detailed description below
+
 ## Background: 
 
 Buying and selling used smartphones used to be something that happened on a handful of online marketplace sites. But the used and refurbished phone market has grown considerably over the past decade, and a new IDC (International Data Corporation) forecast predicts that the used phone market would be worth $52.7bn by 2023 with a compound annual growth rate (CAGR) of 13.6\% from 2018 to 2023. This growth can be attributed to an uptick in demand for used smartphones that offer considerable savings compared with new models.
@@ -13,13 +16,13 @@ Refurbished and used devices continue to provide cost-effective alternatives to 
 The rising potential of this comparatively under-the-radar market fuels the need for an ML-based solution to develop a dynamic pricing strategy for used and refurbished smartphones. ReCell, a startup aiming to tap the potential in this market, has hired you as a data scientist. They want you to analyze the data provided and build a linear regression model to predict the price of a used phone and identify factors that significantly influence it.\
 
 Exploratory data analysis (EDA) will also be carried out on the dataset to asnwer the following questions:
-1. <a href = #link1>What does the distribution of used phone prices look like?</a>
-2. <a href = #link2>What percentage of the used phone market is dominated by Android devices?</a>
-3. <a href = #link3>The amount of RAM is important for the smooth functioning of a phone. How does the amount of RAM vary with the brand?</a>
-4. <a href = #link4>A large battery often increases a phone's weight, making it feel uncomfortable in the hands. How does the weight vary for phones offering large batteries (more than 4500 mAh)?</a>
-5. <a href = #link5>Bigger screens are desirable for entertainment purposes as they offer a better viewing experience. How many phones are available across different brands with a screen size larger than 6 inches?</a>
-6. <a href = #link6>Budget phones nowadays offer great selfie cameras, allowing us to capture our favorite moments with loved ones. What is the distribution of budget phones offering greater than 8MP selfie cameras across brands?</a>
-7. <a href = #link7>Which attributes are highly correlated with the used phone price?</a>
+1. What does the distribution of used phone prices look like?
+2. What percentage of the used phone market is dominated by Android devices?
+3. The amount of RAM is important for the smooth functioning of a phone. How does the amount of RAM vary with the brand?
+4. A large battery often increases a phone's weight, making it feel uncomfortable in the hands. How does the weight vary for phones offering large batteries (more than 4500 mAh)?
+5. Bigger screens are desirable for entertainment purposes as they offer a better viewing experience. How many phones are available across different brands with a screen size larger than 6 inches?
+6. Budget phones nowadays offer great selfie cameras, allowing us to capture our favorite moments with loved ones. What is the distribution of budget phones offering greater than 8MP selfie cameras across brands?
+7. Which attributes are highly correlated with the used phone price?
 
 
 ## Data Description:
